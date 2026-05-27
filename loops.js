@@ -18,13 +18,13 @@ while (count > 0) {
 // TODO: Create a loop that prints only even numbers from the numbers array 
 for (let i = 0; i < = numbers.length; i++) {
     If (numbers[i] % 2 === 0)  {
-      console.log(numbers[i] = "is even");
+      console.log(numbers[i] = " is even");
     }
 }
 
 //TODO: Create a loop that calculates the sum of all numbers in the array     
 let sum = 0 //initializing sum
-for (let = 0; i < numbers[i]; i++) { 
+for (let = 0; i < numbers.length; i++) { 
     sum += numbers[i];
 }
 console.log("Sum: " + sum); 
