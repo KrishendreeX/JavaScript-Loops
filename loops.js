@@ -36,4 +36,4 @@ console.log("Sum: " + sum);
 
 // Owam - did the last 2 questions .
 
-// found a few errors, corrected it, code is working perfect.
+// Krishendree - found a few errors, corrected it, code is working perfect.
