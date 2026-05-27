@@ -15,10 +15,21 @@ while (count > 0) {
     count--;
 }
 
+// TODO: Create a loop that prints only even numbers from the numbers array 
+for (let i = 0; i < = numbers.length; i++) {
+    If (numbers[i] % 2 === 0)  {
+      console.log(numbers[i] = "is even");
+    }
+}
 
-
+//TODO: Create a loop that calculates the sum of all numbers in the array     
+let sum = 0 //initializing sum
+for (let = 0; i < numbers[i]; i++) { 
+    sum += numbers[i];
+}
+console.log("Sum: " + sum); 
 
 
 // Krishendree - finshed creating the arrays, and count down of loops.
 // Double checked and everything works perfectly.
-// Owam can you please help create and even count and sum everything up.
+// Owam - did the last 2 questions .
