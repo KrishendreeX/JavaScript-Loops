@@ -2,7 +2,7 @@
 let numbers = [1, 2, 3, 4, 5];
 
 // TODO: Write a for loop that prints each number in the array
-console.log("for numbers");
+console.log("For numbers:");
 for (let i = 0; i < numbers.length; i++) {
     console.log(numbers[i]);
 }
@@ -16,20 +16,24 @@ while (count > 0) {
 }
 
 // TODO: Create a loop that prints only even numbers from the numbers array 
-for (let i = 0; i < = numbers.length; i++) {
-    If (numbers[i] % 2 === 0)  {
-      console.log(numbers[i] = " is even");
+console.log("Even numbers:");
+for (let i = 0; i < numbers.length; i++) { 
+    if (numbers[i] % 2 === 0) {            
+        console.log(numbers[i] + " is even");
     }
 }
 
 //TODO: Create a loop that calculates the sum of all numbers in the array     
-let sum = 0 //initializing sum
-for (let = 0; i < numbers.length; i++) { 
+let sum = 0; 
+for (let i = 0; i < numbers.length; i++) { 
     sum += numbers[i];
 }
-console.log("Sum: " + sum); 
+console.log("Sum: " + sum);
 
 
 // Krishendree - finshed creating the arrays, and count down of loops.
 // Double checked and everything works perfectly.
+
 // Owam - did the last 2 questions .
+
+// found a few errors, corrected it, code is working perfect.
