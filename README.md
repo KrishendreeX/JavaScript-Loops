@@ -4,7 +4,7 @@ A clean, beginner-friendly JavaScript repository showcasing fundamental loop exe
 
 This project was was built as a pairs  
 
-* *KrishendreeX
+* * KrishendreeX
   
   * Set up the core repository and initialized the `numbers` data array.
   * Designed and built the standard forward `for` loop iteration.
